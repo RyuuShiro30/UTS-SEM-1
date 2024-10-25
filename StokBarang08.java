@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class StokBarang {
+public class StokBarang08 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         String pilihan;
